@@ -22,9 +22,4 @@ This project demonstrates a full CI/CD automation pipeline deploying a sample ap
 3. Add Jenkinsfile to pipeline.
 4. Build & deploy via Docker image.
 
-## 📸 Screenshots
-(Add pipeline build success)
-(Add deployed app screenshot)
 
-## 🔗 Links
-Live Demo (if any): …
