@@ -1,5 +1,30 @@
-# Notes for Ultimate DevOps Project and Resume Preparation Udemy Course
+# DevOps Automation Project: CI/CD with Jenkins, Docker & AWS
 
-- This repository contains the complete notes for the Ultimate DevOps Project and Resume Preparation course prepared by `Abhishek Veeramalla` on Udemy.
+## 📌 Overview
+This project demonstrates a full CI/CD automation pipeline deploying a sample application using Jenkins, Docker and AWS EC2.
 
-- Documentation is organized in Sections, the same way how videos are organized in the udemy course.
+## 🧰 Tools & Technologies
+- AWS EC2, IAM, S3
+- Docker
+- Jenkins
+- Git & GitHub
+- Linux
+
+## 🚀 How It Works
+1. Code pushed to GitHub triggers Jenkins.
+2. Jenkins builds Docker image.
+3. Image deployed on AWS EC2.
+4. Pipeline automates build → test → deploy.
+
+## 🔧 Setup Instructions
+1. Configure AWS (EC2 & IAM).
+2. Install Jenkins on EC2.
+3. Add Jenkinsfile to pipeline.
+4. Build & deploy via Docker image.
+
+## 📸 Screenshots
+(Add pipeline build success)
+(Add deployed app screenshot)
+
+## 🔗 Links
+Live Demo (if any): …
